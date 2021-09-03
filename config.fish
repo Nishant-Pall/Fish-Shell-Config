@@ -15,3 +15,5 @@ alias vi=nvim
 set FISHCONFIG ~/.config/fish
 
 set fish_key_bindings fish_user_key_bindings
+
+set -gx PATH $PATH /usr/local/bin/go
