@@ -1,1 +1,0 @@
-/home/prhyme/.fzf/shell/key-bindings.fish

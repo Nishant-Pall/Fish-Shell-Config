@@ -1,4 +1,3 @@
-theme_gruvbox dark hard
 
 set PATH $PATH $HOME/.local/bin
 export PATH
@@ -9,11 +8,13 @@ function ll
 
 export VISUAL=nvim
 
-alias vim=nvim
-alias vi=nvim
+#alias vim=nvim
+#alias vi=nvim
 
 set FISHCONFIG ~/.config/fish
 
 set fish_key_bindings fish_user_key_bindings
 
 set -gx PATH $PATH /usr/local/bin/go
+
+#theme_gruvbox dark hard
