@@ -1,0 +1,1 @@
+/Users/nishantpall/dotfiles/config.fish
