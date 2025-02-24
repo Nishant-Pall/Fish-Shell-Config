@@ -21,8 +21,12 @@ alias gr="git rebase"
 alias grba="git rebase --abort"
 alias grbc="git rebase --continue"
 alias gcp="git cherry-pick"
+alias gfo="git fetch origin"
+
+
 alias pip=pip3
 alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
+
 
 
 # set FISHCONFIG ~/.config/fishl
